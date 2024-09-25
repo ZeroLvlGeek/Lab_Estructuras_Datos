@@ -1,0 +1,25 @@
+[{
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo12\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo12",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo12\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo12\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo10\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo10",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo10\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo10\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo09\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo09",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo09\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo09\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo_paso_referencia\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo_paso_referencia",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo_paso_referencia\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo_paso_referencia\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo11\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo11",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo11\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo11\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo_paso_argumento\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo_paso_argumento",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo_paso_argumento\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Lab_Estructuras_Datos\\Sesion2\\Sesion2\\Ejemplo_paso_argumento\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]
