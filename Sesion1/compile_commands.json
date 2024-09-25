@@ -1,0 +1,33 @@
+[{
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo07\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo07",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo07\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo07\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo6\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo6",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo6\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo6\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo5\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo5",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo5\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo5\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo04\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo04",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo04\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo04\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo08\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo08",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo08\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo08\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo03\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo03",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo03\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo03\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo02\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo02",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo02\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo02\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo01\\main.cpp",
+  "directory": "D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo01",
+  "command": "clang++ -c D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo01\\main.cpp -o D:\\Estudios\\Universidad\\UAH\\Segundo\\EdD\\Practica\\Practica\\Ejemplo01\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }]

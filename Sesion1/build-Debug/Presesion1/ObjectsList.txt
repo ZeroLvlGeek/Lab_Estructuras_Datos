@@ -1,0 +1,1 @@
+../build-Debug/Presesion1/main.cpp.o   
